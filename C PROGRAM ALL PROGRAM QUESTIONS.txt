@@ -1,11 +1,11 @@
 C PROGRAM ALL PROGRAM QUESTIONS
 
-3. Write a program to display, strong number in between 1 to n
-4. Write a program to display, prime number in between 1 to n
-5. write a program to display first 100 prime numbers
-6. write a program to display, prime number which are ending with 3 and 7
-7. write a program to display twin prime numbers in between 1 to 100
-8. write a program to print the binary of the given integer number
+1. Write a program to display, strong number in between 1 to n
+2. Write a program to display, prime number in between 1 to n
+3. write a program to display first 100 prime numbers
+4. write a program to display, prime number which are ending with 3 and 7
+5. write a program to display twin prime numbers in between 1 to 100
+6. write a program to print the binary of the given integer number
 
 -some normal--
 1. write a program to design a menu operations using switch case from the following : 1. set a bit 2. Clear a bit 3. Compliment a bit print the binary of the number before and after the menu operations.
