@@ -1,0 +1,98 @@
+C PROGRAM ALL PROGRAM QUESTIONS
+
+3. Write a program to display, strong number in between 1 to n
+4. Write a program to display, prime number in between 1 to n
+5. write a program to display first 100 prime numbers
+6. write a program to display, prime number which are ending with 3 and 7
+7. write a program to display twin prime numbers in between 1 to 100
+8. write a program to print the binary of the given integer number
+
+-some normal--
+1. write a program to design a menu operations using switch case from the following : 1. set a bit 2. Clear a bit 3. Compliment a bit print the binary of the number before and after the menu operations.
+2. write a program to swap two particular given position bits, in a given number and print the binary before and after this operations.
+3. write a program mto reverse the bits of the given integer number
+4. write a program to print float binary using character pointer.
+5. write a program to print double binary using character pointer.
+
+-- function --
+1. write a program to reverse the given integer number using a function and return the result to the calling function.
+2. write a program to pass a number to a function to print the number of Fibonacci series.
+3. write a program to find the factorial of the given integer number using a function and returns from calling function.
+
+--arrays--
+1.No.of positive and negative numbers in the array element.
+2.No.of odd/even numbers in the array element
+3.Copy one array elements into another array element
+4.No.of prime numbers in the array
+5.reverse the array elements
+6.write a program to check the palindrome or not using array concept.
+7.write a program that how many number of time each array element is present in a given array.
+8. write a program to delete the array element based on array index value.
+9.write a program to insert an element into an based array index.
+
+--strings--
+1.reverse the string 
+2.reverse the string character by character
+3.remove non-alpha from string
+4. write a program using strcpy user-defined function
+5. copy 2 strings merge into third array
+6.write a program to remove all spaces in the given string
+7.write a program to remove consecutive spaces in the given string
+8.write a program to remove special character and digit in the given string line
+9.write a program to copy a string from source character array to destination character array using strcpy function and without strcpy function.
+10.Write a program to count the given character in a given string, how many number of time it is present.
+11.using strcat function write a example program.
+12.using strchr function write a program.
+13.using strcmp function write a program.
+14.using strstr function write a program.
+15.write a program to rearrange all the words in reverse in a given string line.
+16.write a program to reverse every word in the same  place in a given string line
+17.write a program to sort the words which is less than 6 bytes in a given string line in the same place
+18.write a program to check that how many times each character is present in the given string line.
+19.write a program to merge 2 strings characters into 3rd array.
+
+--recursion--
+1.write a program to print the factorial value of the given integer using recursion function.
+2.write a program to perform sum of digits of the given integer number using recursion function. pass the value main to recursion function.
+3.write a program to reversing the function given integer number using recursion function.
+4.write a program to reversing the string using recursion function.
+
+--3d array and pointer concepts--
+1.write a program to perform matrix addition between two matrices stored it is result into 3rd array.
+2.write a program to perform matrix multiplication between two matrices stored it is result into 3rd array.
+3.write a program to pass 2D array to a function
+4.write a program to implement the basic calculator using function pointer.
+
+--command line arguments--
+1.write a program to implement atoi function or atof function.
+2.implementation of basic calculator using command line arguments.
+
+--structure, union--
+1.write a program to design the functions scan and  printf to scan and print the struct variable data.
+2.write a program to check the machine follows little endian method or big endian method using union.
+3. write a program to print double binary using union.
+4.write a program to sort 5 students records on the basis of roll number, name, marks.
+
+--data structures--
+1.Single linked list - Add_begin, Add_end, Add_middle.
+2.print the nodes in reverse.
+3.write a program to delete a particular node.
+4.write a program to delete all nodes.
+5.double linked list - add_begin, add_end, add_middle.
+6.reverse the data in double linked list 
+7. reverse the link in double linked list.
+8.same for circular linked list
+
+--files--
+1.write a program to test the file is exist or not?
+2.write a program to implement cp using file concept
+3.write a program to find number of lines and number of character in the file. 
+4.write a program to find file size, big line, big line length in the file.
+5.write a program to read a file more than one time
+6.write a program to implement mv command using files concept.
+7.write a program to copy one source file to multiple destination file 
+8.write a program to count the number of words in a file using fscanf function?
+9.write a program to replace one character with another character in a FILE.
+10.write a program to replace each word first letter with capital letter.
+11.using fseek function one example program.
+12.in file concept write one program using grep.
