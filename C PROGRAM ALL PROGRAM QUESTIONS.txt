@@ -5,7 +5,7 @@ C PROGRAM ALL PROGRAM QUESTIONS
 3. write a program to display first 100 prime numbers
 4. write a program to display, prime number which are ending with 3 and 7
 5. write a program to display twin prime numbers in between 1 to 100
-6. write a program to print the binary of the given integer number
+6. write a program to print the binary of the given integer number.
 
 -some normal--
 1. write a program to design a menu operations using switch case from the following : 1. set a bit 2. Clear a bit 3. Compliment a bit print the binary of the number before and after the menu operations.
@@ -96,3 +96,4 @@ C PROGRAM ALL PROGRAM QUESTIONS
 10.write a program to replace each word first letter with capital letter.
 11.using fseek function one example program.
 12.in file concept write one program using grep.
+13.WAP to implement cp command in the file concept.
