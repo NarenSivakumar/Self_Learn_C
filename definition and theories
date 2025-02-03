@@ -4,3 +4,5 @@ armstrong number
 like that...
 For loops - repeats a section of code for a limited amount of times
 While loops - repeats a section of code possibly unlimited times.
+Do while loops - do while doesn't the check the condition first time. after that it will check the condition and exectues accordingly.
+Array - is a data structure that can stores many values of the same data type.
